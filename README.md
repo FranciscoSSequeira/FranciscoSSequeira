@@ -57,6 +57,12 @@ El proyecto es una plataforma que intenta conectar personas que quieran ayudar e
 
 ---
 
+## 🏆 Certificaciones
+
+* **Certificado de Inglés EF SET:** [Ver Certificado](https://cert.efset.org/es/score/certificate/50)
+
+---
+
 ## 📬 Contacto
 
 Puedes contactarme a través de:
