@@ -19,4 +19,6 @@ Mi intención es:
 ---
 
 ### 📬 Contacto
-Puedes contactarme directamente a mi correo: **franciscosequeira879@gmail.com**
+Puedes contactarme a traves de: 
+* 📧 **Correo Electrónico:** franciscosequeira879@gmail.com
+* 🔗 **LinkedIn:** [Francisco Sequeira](https://www.linkedin.com/in/francisco-sequeira-/)
